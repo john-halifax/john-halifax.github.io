@@ -12,7 +12,6 @@ website:
       - CV.qmd
       - Education.qmd
       - Publications.qmd
-      - Research.qmd
       - Teaching.qmd
     tools:
       - icon: envelope
