@@ -16,10 +16,10 @@ about:
 
 ## About Me:
 
-I'm John Halifax, a PhD student in Epidemiology at UC Berkeley. I am passionate about social epidemiology, and aim to be a scholar with a deep and versatile biostatistical toolkit addressing socio-medical questions about vulnerable populations. 
-
+I'm John Halifax, a PhD student in Epidemiology at UC Berkeley. I am passionate about social epidemiology, and aim to be a scholar with a deep and versatile biostatistical toolkit addressing socio-medical questions about vulnerable populations.
 
 ## Education
+
 $\textbf{University of California, Berkeley,}$ Berkeley, CA\
 $\textbf{PhD student,}$ Epidemiology\
 Advisor: Jennifer Ahern, PhD, MPH\
