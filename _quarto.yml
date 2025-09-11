@@ -9,7 +9,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - Education.qmd
+      - CV.qmd
       - Research.qmd
+      - Publications.qmd
     tools:
       - icon: github
         href: https://github.com/john-halifax
@@ -21,7 +24,7 @@ format:
       dark: darkly
       light: cosmo
     css: styles.css
-    toc: true
+    toc: false
     page-layout: full
 
 editor: visual

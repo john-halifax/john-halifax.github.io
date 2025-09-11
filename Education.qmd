@@ -1,0 +1,24 @@
+---
+title: "Education"
+---
+
+
+## Education
+
+$\textbf{University of California, Berkeley,}$ Berkeley, CA\
+$\textbf{PhD student,}$ Epidemiology\
+Advisor: [Jennifer Ahern, PhD, MPH](https://publichealth.berkeley.edu/people/jennifer-ahern)\
+starting Fall 2024\
+\
+$\textbf{University of California, Berkeley,}$ Berkeley, CA\
+$\textbf{MS,}$ Epidemiology\
+Capstone: “Evaluating the Predictive Performance of Different Data Sources to Forecast Overdose Deaths in Rhode Island at the Neighborhood Level With Machine Learning in Rhode Island”\
+Advisor: [Jennifer Ahern, PhD, MPH](https://publichealth.berkeley.edu/people/jennifer-ahern)\
+May 2024\
+\
+$\textbf{Haverford College,}$ Haverford, PA\
+$\textbf{BS, }\textit{magna cum laude,}$ Chemistry with Biochemistry concentration\
+Honors in Chemistry\
+Thesis: “Exploring the Hendra Virus Replicative Complex Using Thiocyanate IR Probes”\
+Advisor: [Casey Londergan, PhD, MS](https://www.haverford.edu/users/clonderg)\
+May 2018
