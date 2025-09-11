@@ -24,4 +24,4 @@ I'm John Halifax, a PhD student in Epidemiology at [UC Berkeley’s School of Pu
 
 * Utilizing machine learning to forecast fatal overdose at the neighborhood level
 
-Prior to pursuing a PhD, I worked at the intersection of analytical chemistry, community health, and the overdose crisis at San Francisco AIDS Foundation and UC San Francisco. I hold an MS in Epidemiology from UC Berkeley and a BS in Chemistry $\textit{magna cum laude,}$ from Haverford College. Outside of work, you will find me riding my bicycle, reading the newspaper, or watching my favorite soccer team.
+Prior to pursuing a PhD, I worked at the intersection of analytical chemistry, community health, and the overdose crisis at San Francisco AIDS Foundation and UC San Francisco. I hold an MS in Epidemiology from UC Berkeley and a BS in Chemistry *magna cum laude,* from Haverford College. Outside of work, you will find me riding my bicycle, reading the newspaper, or watching my favorite soccer team.

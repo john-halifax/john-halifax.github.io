@@ -69,35 +69,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -176,20 +147,17 @@ window.Quarto = {
 </header>
 
 
-<p><span class="math inline">\(\textbf{University of California, Berkeley,}\)</span> Berkeley, CA<br>
-<span class="math inline">\(\textbf{PhD student,}\)</span> Epidemiology<br>
+<p><strong>University of California, Berkeley,</strong> Berkeley, CA<br>
+<strong>PhD student,</strong> Epidemiology<br>
 Advisor: <a href="https://publichealth.berkeley.edu/people/jennifer-ahern">Jennifer Ahern, PhD, MPH</a><br>
-starting Fall 2024<br>
-<br>
-<span class="math inline">\(\textbf{University of California, Berkeley,}\)</span> Berkeley, CA<br>
-<span class="math inline">\(\textbf{MS,}\)</span> Epidemiology<br>
+starting Fall 2024</p>
+<p><strong>University of California, Berkeley,</strong> Berkeley, CA<br>
+<strong>MS,</strong> Epidemiology<br>
 Capstone: “Evaluating the Predictive Performance of Different Data Sources to Forecast Overdose Deaths in Rhode Island at the Neighborhood Level With Machine Learning in Rhode Island”<br>
 Advisor: <a href="https://publichealth.berkeley.edu/people/jennifer-ahern">Jennifer Ahern, PhD, MPH</a><br>
-May 2024<br>
-<br>
-<span class="math inline">\(\textbf{Haverford College,}\)</span> Haverford, PA<br>
-<span class="math inline">\(\textbf{BS, }\textit{magna cum laude,}\)</span> Chemistry with Biochemistry concentration<br>
-Honors in Chemistry<br>
+May 2024</p>
+<p><strong>Haverford College,</strong> Haverford, PA<br>
+<strong>BS, </strong> <em>magna cum laude,</em> Chemistry with Biochemistry concentration. Honors in Chemistry<br>
 Thesis: “Exploring the Hendra Virus Replicative Complex Using Thiocyanate IR Probes”<br>
 Advisor: <a href="https://www.haverford.edu/users/clonderg">Casey Londergan, PhD, MS</a><br>
 May 2018</p>
