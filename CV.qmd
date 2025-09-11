@@ -4,7 +4,6 @@ title: "CV"
 
 [CV](John_Halifax_CV_240616.pdf)
 
-
 ## Current Research Role
 
 Graduate Student Researcher\
@@ -46,4 +45,3 @@ $\underline{Co-Author:}$ Soni, I.; Chinn, G.; $\textbf{Halifax, J.C.;}$ Lynch, K
 $\underline{Co-Author:}$ Zhang, Y.; $\textbf{Halifax, J.C.;}$ Tangsombatvisit, C.; Yun, C.; Pang, S.; Hooshfar, S.; Wu, A. H. B.; Lynch, K. L. Development and Application of a High-Resolution Mass Spectrometry Method for the Detection of Fentanyl Analogs in Urine and Serum. J. Mass Spectrom. Adv. Clin. Lab 2022. https://doi.org/10.1016/j.jmsacl.2022.07.005.
 
 ## Honors and Awards
-
