@@ -1,0 +1,49 @@
+---
+title: "CV"
+---
+
+[CV](John_Halifax_CV_240616.pdf)
+
+
+## Current Research Role
+
+Graduate Student Researcher\
+August 2023-Present\
+$\textbf{University of California, Berkeley,}$ Berkeley, CA
+
+-   Independently evaluated the predictive performance of different administrative data sources to forecast fatal overdoses at the neighborhood level with machine learning in R. Performed analysis in collaboration with research teams at Brown and New York University within the context of the PROVIDENT randomized control trial in Rhode Island (NIH R01 DA046620). Established an accessible template for non-technical stakeholders to utilize machine learning to forecast fatal overdoses to allocate overdose prevention resources.
+
+-   Investigating the effect of acute community violence on maternal and infant health and racial/ethnic health disparities as part of NIH R01 HD098138. Processing data for over 6 million study individuals over more than a decade. Developing time series models for exposure assessment and implementing novel targeted maximum likelihood estimation (TMLE) methods for causal inference.
+
+## Education
+
+$\textbf{University of California, Berkeley,}$ Berkeley, CA\
+$\textbf{PhD student,}$ Epidemiology\
+Advisor: Jennifer Ahern, PhD, MPH\
+starting Fall 2024\
+\
+$\textbf{University of California, Berkeley,}$ Berkeley, CA\
+$\textbf{MS,}$ Epidemiology\
+Capstone: “Evaluating the Predictive Performance of Different Data Sources to Forecast Overdose Deaths in Rhode Island at the Neighborhood Level With Machine Learning in Rhode Island”\
+Advisor: Jennifer Ahern, PhD, MPH\
+GPA: 4.0\
+May 2024\
+\
+$\textbf{Haverford College,}$ Haverford, PA\
+$\textbf{BS, }\textit{magna cum laude,}$ Chemistry with Biochemistry concentration\
+Honors in Chemistry\
+Thesis: “Exploring the Hendra Virus Replicative Complex Using Thiocyanate IR Probes”\
+Advisor: Casey Londergan, PhD\
+GPA: 3.86\
+May 2018
+
+## Peer-Reviewed Publications
+
+$\underline{First-Author,\, Corresponding\, Author:}$ $\textbf{Halifax, J.C.;}$ Lim, L.; Ciccarone, D.; Lynch, K.L. Testing the Test Strips: Laboratory Performance of Fentanyl Test Strips. Harm Reduction J. 2024. https://doi.org/10.1186/s12954-023-00921-8
+
+$\underline{Co-Author:}$ Soni, I.; Chinn, G.; $\textbf{Halifax, J.C.;}$ Lynch, K.L.; Sall, J. The Effect of Route of Administration and Vehicle on the Pharmacokinetics of THC and CBD in Adult, Neonate, and Breastfed Sprague-Dawley Rats. Cannabis Cannabinoid Res 2023. http://doi.org/10.1089/can.2023.0121
+
+$\underline{Co-Author:}$ Zhang, Y.; $\textbf{Halifax, J.C.;}$ Tangsombatvisit, C.; Yun, C.; Pang, S.; Hooshfar, S.; Wu, A. H. B.; Lynch, K. L. Development and Application of a High-Resolution Mass Spectrometry Method for the Detection of Fentanyl Analogs in Urine and Serum. J. Mass Spectrom. Adv. Clin. Lab 2022. https://doi.org/10.1016/j.jmsacl.2022.07.005.
+
+## Honors and Awards
+

@@ -3,18 +3,26 @@ project:
   output-dir: docs
 
 website:
-  title: "john-halifax.github.io"
+  title: "John Halifax"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Research.qmd
+    tools:
+      - icon: github
+        href: https://github.com/john-halifax
+        aria-label: GitHub
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      dark: darkly
+      light: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

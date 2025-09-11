@@ -1,11 +1,39 @@
 ---
-title: "john-halifax.github.io"
+title: "John Halifax"
+image: IMG_0342.jpg
+2toc: false
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: Email
+      href: mailto:john_halifax@berkeley.edu
+    - text: GitHub
+      href: https://github.com/john-halifax
 ---
 
-This is a Quarto website.
+## About Me:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm John Halifax, a PhD student in Epidemiology at UC Berkeley. I am passionate about social epidemiology, and aim to be a scholar with a deep and versatile biostatistical toolkit addressing socio-medical questions about vulnerable populations. 
 
-```{r}
-1 + 1
-```
+
+## Education
+$\textbf{University of California, Berkeley,}$ Berkeley, CA\
+$\textbf{PhD student,}$ Epidemiology\
+Advisor: Jennifer Ahern, PhD, MPH\
+starting Fall 2024\
+\
+$\textbf{University of California, Berkeley,}$ Berkeley, CA\
+$\textbf{MS,}$ Epidemiology\
+Capstone: “Evaluating the Predictive Performance of Different Data Sources to Forecast Overdose Deaths in Rhode Island at the Neighborhood Level With Machine Learning in Rhode Island”\
+Advisor: Jennifer Ahern, PhD, MPH\
+May 2024\
+\
+$\textbf{Haverford College,}$ Haverford, PA\
+$\textbf{BS, }\textit{magna cum laude,}$ Chemistry with Biochemistry concentration\
+Honors in Chemistry\
+Thesis: “Exploring the Hendra Virus Replicative Complex Using Thiocyanate IR Probes”\
+Advisor: Casey Londergan, PhD\
+May 2018
