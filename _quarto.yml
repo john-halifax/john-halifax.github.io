@@ -8,11 +8,12 @@ website:
     background: primary
     left:
       - href: index.qmd
-        text: Home
-      - Education.qmd
+        text: About Me
       - CV.qmd
-      - Research.qmd
+      - Education.qmd
       - Publications.qmd
+      - Research.qmd
+      - Teaching.qmd
     tools:
       - icon: github
         href: https://github.com/john-halifax

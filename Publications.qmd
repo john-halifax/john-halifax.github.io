@@ -1,0 +1,18 @@
+---
+title: "Peer-Reviewed Publications"
+---
+
+
+\begin{itemize}
+\item \textit{\textbf{First-Author, Corresponding Author: }} \textbf{Halifax, J.C., }
+\text{Allen B, Pratty C, Jent V, Skinner A, Cerdá M, Marshall BDL, Neill DB, Ahern J. Evaluating the predictive performance of different data sources to forecast overdose deaths at the neighborhood level with machine learning in Rhode Island. }\textit{Prev Med }\textbf{2025.}\text{doi: 10.1016/j.ypmed.2025.108276. }
+
+\item \textit{\textbf{First-Author, Corresponding Author: }} \textbf{Halifax, J.C., }
+\text{Lim, L.; Ciccarone, D.; Lynch, K.L. Testing the Test Strips: Laboratory Performance of Fentanyl Test Strips. }\textit{Harm Reduction J. }\textbf{2024.}\text{https://doi.org/10.1186/s12954-023-00921-8}
+
+\item \textit{\textbf{Co-Author: }}\text{Soni, I.; Chinn, G.; }\textbf{Halifax, J.C.; }\text{Lynch, K.L.; Sall, J. The Effect of Route of Administration and Vehicle on the Pharmacokinetics of THC and CBD in Adult, Neonate, and Breastfed Sprague-Dawley Rats. }\textit{}\textbf{2023. }\text{http://doi.org/10.1089/can.2023.0121}
+
+\item \textit{\textbf{Co-Author: }}\text{Zhang, Y.; }\textbf{Halifax, J.C.; }\text{Tangsombatvisit, C.; Yun, C.; Pang, S.; Hooshfar, S.; Wu, A. H. B.; Lynch, K. L. Development and Application of a High-Resolution Mass Spectrometry Method for the Detection of Fentanyl Analogs in Urine and Serum.}\textit{J. Mass Spectrom. Adv. Clin. Lab 2022}\textbf{2022.}\text{https://doi.org/10.1016/j.jmsacl.2022.07.005.}
+
+\end{itemize}
+
