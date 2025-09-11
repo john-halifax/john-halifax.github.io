@@ -2,9 +2,6 @@
 title: "Education"
 ---
 
-
-## Education
-
 $\textbf{University of California, Berkeley,}$ Berkeley, CA\
 $\textbf{PhD student,}$ Epidemiology\
 Advisor: [Jennifer Ahern, PhD, MPH](https://publichealth.berkeley.edu/people/jennifer-ahern)\

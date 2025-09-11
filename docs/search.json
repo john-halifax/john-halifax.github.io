@@ -18,21 +18,21 @@
     "href": "index.html",
     "title": "John Halifax",
     "section": "",
-    "text": "I’m John Halifax, a PhD student in Epidemiology at UC Berkeley’s School of Public Health. I broadly explore the role of neighborhood and place as determinants of health from an ecosocial perspective using flexible, minimally-assumptive causal inference methods. My current research includes extending causal inference methods to account for neighborhood specific confounding effects in multilevel, high-dimensional data settings, examining the effect of acute community violence on perinatal outcomes, and utilizing machine learning to forecast fatal overdose at the neighborhood level. Prior to pursuing a PhD, I worked at the intersection of analytical chemistry, community health, and the overdose crisis at San Francisco AIDS Foundation and UC San Francisco. I hold an MS in Epidemiology from UC Berkeley and a BS in Chemistry \\(\\textit{magna cum laude,}\\) from Haverford College. Outside of work, you will find me riding my bicycle, reading the newspaper, or watching my favorite soccer team."
+    "text": "I’m John Halifax, a PhD student in Epidemiology at UC Berkeley’s School of Public Health. I broadly explore the role of neighborhood and place as determinants of health from an ecosocial perspective using flexible, minimally-assumptive causal inference methods. My current research includes:\n\nExtending causal inference methods to account for neighborhood specific confounding effects in multilevel, high-dimensional data settings\nExamining the effect of acute community violence on perinatal outcomes in California\nUtilizing machine learning to forecast fatal overdose at the neighborhood level\n\nPrior to pursuing a PhD, I worked at the intersection of analytical chemistry, community health, and the overdose crisis at San Francisco AIDS Foundation and UC San Francisco. I hold an MS in Epidemiology from UC Berkeley and a BS in Chemistry \\(\\textit{magna cum laude,}\\) from Haverford College. Outside of work, you will find me riding my bicycle, reading the newspaper, or watching my favorite soccer team."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "John Halifax",
     "section": "",
-    "text": "I’m John Halifax, a PhD student in Epidemiology at UC Berkeley’s School of Public Health. I broadly explore the role of neighborhood and place as determinants of health from an ecosocial perspective using flexible, minimally-assumptive causal inference methods. My current research includes extending causal inference methods to account for neighborhood specific confounding effects in multilevel, high-dimensional data settings, examining the effect of acute community violence on perinatal outcomes, and utilizing machine learning to forecast fatal overdose at the neighborhood level. Prior to pursuing a PhD, I worked at the intersection of analytical chemistry, community health, and the overdose crisis at San Francisco AIDS Foundation and UC San Francisco. I hold an MS in Epidemiology from UC Berkeley and a BS in Chemistry \\(\\textit{magna cum laude,}\\) from Haverford College. Outside of work, you will find me riding my bicycle, reading the newspaper, or watching my favorite soccer team."
+    "text": "I’m John Halifax, a PhD student in Epidemiology at UC Berkeley’s School of Public Health. I broadly explore the role of neighborhood and place as determinants of health from an ecosocial perspective using flexible, minimally-assumptive causal inference methods. My current research includes:\n\nExtending causal inference methods to account for neighborhood specific confounding effects in multilevel, high-dimensional data settings\nExamining the effect of acute community violence on perinatal outcomes in California\nUtilizing machine learning to forecast fatal overdose at the neighborhood level\n\nPrior to pursuing a PhD, I worked at the intersection of analytical chemistry, community health, and the overdose crisis at San Francisco AIDS Foundation and UC San Francisco. I hold an MS in Epidemiology from UC Berkeley and a BS in Chemistry \\(\\textit{magna cum laude,}\\) from Haverford College. Outside of work, you will find me riding my bicycle, reading the newspaper, or watching my favorite soccer team."
   },
   {
     "objectID": "Teaching.html",
     "href": "Teaching.html",
     "title": "Teaching Experience",
     "section": "",
-    "text": "update that here"
+    "text": "Graduate Student Instructor\nDivision of Epidemiology, UC Berkeley\nFall 2025\n\nServed as teaching assistant to Professor Patrick Bradshaw for course PH252 Epidemiological Methods. Course topics include generalized linear models, Kaplan-Meier estimation, survival distributions, and models for parametric and semi-parametric survival analysis, as well as methods for confounder selection, dose-response modeling, and interaction and effect modification. \n\nConference Workshop Co-Instructor\nSociety for Epidemiologic Research Annual Meeting\nJune 2025\n\nCo-instructed a workshop applying the Causal Roadmap to estimate causal effects with multiple intervention variables, such as the cumulative effect of an exposure over time and the effects on survival-type outcomes with right-censoring. Covered longitudinal causal models, identification in the presence of time-dependent confounding, and estimation of joint treatment effects using G-computation, inverse probability weighting (IPW), and targeted minimum loss-based estimation (TMLE) with Super Learner. Led participants through the Roadmap using an applied example and implementation of these estimators with the ltmle package in R."
   },
   {
     "objectID": "Research.html",
@@ -49,15 +49,15 @@
     "text": "Adding more as life goes along, in progress currently"
   },
   {
-    "objectID": "Education.html",
-    "href": "Education.html",
-    "title": "Education",
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Peer-Reviewed Publications",
     "section": "",
-    "text": "\\(\\textbf{University of California, Berkeley,}\\) Berkeley, CA\n\\(\\textbf{PhD student,}\\) Epidemiology\nAdvisor: Jennifer Ahern, PhD, MPH\nstarting Fall 2024\n\n\\(\\textbf{University of California, Berkeley,}\\) Berkeley, CA\n\\(\\textbf{MS,}\\) Epidemiology\nCapstone: “Evaluating the Predictive Performance of Different Data Sources to Forecast Overdose Deaths in Rhode Island at the Neighborhood Level With Machine Learning in Rhode Island”\nAdvisor: Jennifer Ahern, PhD, MPH\nMay 2024\n\n\\(\\textbf{Haverford College,}\\) Haverford, PA\n\\(\\textbf{BS, }\\textit{magna cum laude,}\\) Chemistry with Biochemistry concentration\nHonors in Chemistry\nThesis: “Exploring the Hendra Virus Replicative Complex Using Thiocyanate IR Probes”\nAdvisor: Casey Londergan, PhD, MS\nMay 2018"
+    "text": "First-Author, Corresponding Author:\nHalifax, J.C., Allen B, Pratty C, Jent V, Skinner A, Cerdá M, Marshall BDL, Neill DB, Ahern J. Evaluating the predictive performance of different data sources to forecast overdose deaths at the neighborhood level with machine learning in Rhode Island. Prev Med 2025. doi: 10.1016/j.ypmed.2025.108276\nFirst-Author, Corresponding Author:\nHalifax, J.C.,Lim, L.; Ciccarone, D.; Lynch, K.L. Testing the Test Strips: Laboratory Performance of Fentanyl Test Strips. Harm Reduction J. 2024. https://doi.org/10.1186/s12954-023-00921-8\nCo-Author:\nSoni, I.; Chinn, G.; Halifax, J.C.; Lynch, K.L.; Sall, J. The Effect of Route of Administration and Vehicle on the Pharmacokinetics of THC and CBD in Adult, Neonate, and Breastfed Sprague-Dawley Rats. Cannabis and Cannabinoid Research 2023. http://doi.org/10.1089/can.2023.0121\nCo-Author:\nZhang, Y.; Halifax, J.C.; Tangsombatvisit, C.; Yun, C.; Pang, S.; Hooshfar, S.; Wu, A. H. B.; Lynch, K. L. Development and Application of a High-Resolution Mass Spectrometry Method for the Detection of Fentanyl Analogs in Urine and Serum. J. Mass Spectrom. Adv. Clin. Lab 2022. https://doi.org/10.1016/j.jmsacl.2022.07.005"
   },
   {
-    "objectID": "Education.html#education",
-    "href": "Education.html#education",
+    "objectID": "Education.html",
+    "href": "Education.html",
     "title": "Education",
     "section": "",
     "text": "\\(\\textbf{University of California, Berkeley,}\\) Berkeley, CA\n\\(\\textbf{PhD student,}\\) Epidemiology\nAdvisor: Jennifer Ahern, PhD, MPH\nstarting Fall 2024\n\n\\(\\textbf{University of California, Berkeley,}\\) Berkeley, CA\n\\(\\textbf{MS,}\\) Epidemiology\nCapstone: “Evaluating the Predictive Performance of Different Data Sources to Forecast Overdose Deaths in Rhode Island at the Neighborhood Level With Machine Learning in Rhode Island”\nAdvisor: Jennifer Ahern, PhD, MPH\nMay 2024\n\n\\(\\textbf{Haverford College,}\\) Haverford, PA\n\\(\\textbf{BS, }\\textit{magna cum laude,}\\) Chemistry with Biochemistry concentration\nHonors in Chemistry\nThesis: “Exploring the Hendra Virus Replicative Complex Using Thiocyanate IR Probes”\nAdvisor: Casey Londergan, PhD, MS\nMay 2018"

@@ -16,4 +16,12 @@ about:
 
 ## About Me:
 
-I'm John Halifax, a PhD student in Epidemiology at [UC Berkeley’s School of Public Health](https://publichealth.berkeley.edu/). I broadly explore the role of neighborhood and place as determinants of health from an ecosocial perspective using flexible, minimally-assumptive causal inference methods. My current research includes extending causal inference methods to account for neighborhood specific confounding effects in multilevel, high-dimensional data settings, examining the effect of acute community violence on perinatal outcomes, and utilizing machine learning to forecast fatal overdose at the neighborhood level. Prior to pursuing a PhD, I worked at the intersection of analytical chemistry, community health, and the overdose crisis at [San Francisco AIDS Foundation](https://www.sfaf.org/) and [UC San Francisco](https://www.ucsf.edu/). I hold an MS in Epidemiology from UC Berkeley and a BS in Chemistry $\textit{magna cum laude,}$ from [Haverford College](https://www.haverford.edu/). Outside of work, you will find me riding my bicycle, reading the newspaper, or watching my favorite soccer team.
+I'm John Halifax, a PhD student in Epidemiology at [UC Berkeley’s School of Public Health](https://publichealth.berkeley.edu/). I broadly explore the role of neighborhood and place as determinants of health from an ecosocial perspective using flexible, minimally-assumptive causal inference methods. My current research includes:
+
+* Extending causal inference methods to account for neighborhood specific confounding effects in multilevel, high-dimensional data settings
+
+* Examining the effect of acute community violence on perinatal outcomes in California
+
+* Utilizing machine learning to forecast fatal overdose at the neighborhood level
+
+Prior to pursuing a PhD, I worked at the intersection of analytical chemistry, community health, and the overdose crisis at San Francisco AIDS Foundation and UC San Francisco. I hold an MS in Epidemiology from UC Berkeley and a BS in Chemistry $\textit{magna cum laude,}$ from Haverford College. Outside of work, you will find me riding my bicycle, reading the newspaper, or watching my favorite soccer team.

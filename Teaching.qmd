@@ -2,5 +2,14 @@
 title: "Teaching Experience"
 ---
 
+* **Graduate Student Instructor**  
+  **Division of Epidemiology, UC Berkeley**  
+  *Fall 2025*  
+  * Served as teaching assistant to Professor Patrick Bradshaw for course PH252 Epidemiological Methods. Course topics include generalized linear models, Kaplan-Meier estimation, survival distributions, and models for parametric and semi-parametric survival analysis, as well as methods for confounder selection, dose-response modeling, and interaction and effect modification.
+<br><br>
 
-update that here
+* **Conference Workshop Co-Instructor**  
+  **Society for Epidemiologic Research Annual Meeting**  
+  *June 2025*  
+  * Co-instructed a workshop applying the Causal Roadmap to estimate causal effects with multiple intervention variables, such as the cumulative effect of an exposure over time and the effects on survival-type outcomes with right-censoring. Covered longitudinal causal models, identification in the presence of time-dependent confounding, and estimation of joint treatment effects using G-computation, inverse probability weighting (IPW), and targeted minimum loss-based estimation (TMLE) with Super Learner. Led participants through the Roadmap using an applied example and implementation of these estimators with the [`ltmle`](https://cran.r-project.org/web/packages/ltmle/index.html) package in `R`.
+

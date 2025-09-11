@@ -15,6 +15,9 @@ website:
       - Research.qmd
       - Teaching.qmd
     tools:
+      - icon: envelope
+        href: mailto:john_halifax@berkeley.edu
+        aria-label: Email
       - icon: github
         href: https://github.com/john-halifax
         aria-label: GitHub
