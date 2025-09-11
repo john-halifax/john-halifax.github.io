@@ -2,13 +2,6 @@
 title: "Research"
 ---
 
-## CV
-
-My CV is available for [download as a pdf](John_Halifax_CV.pdf), and is also provided below: 
-
-<iframe src="John_Halifax_CV.pdf" width="100%" height="600px" style="border:none;">
-</iframe>
-
 ## Research Endeavors
 
 Adding more as life goes along, in progress currently
