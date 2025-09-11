@@ -1,6 +1,6 @@
 ---
 title: "John Halifax"
-image: IMG_0342_small.jpg
+image: IMG_0342_small.jpeg
 2toc: false
 toc: false
 about: 
