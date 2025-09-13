@@ -4,5 +4,3 @@ title: "Curriculum Vitae"
 
 <iframe src="John_Halifax_CV.pdf" width="100%" height="600px" style="border:none;">
 </iframe>
-
-[Download my CV as a pdf](John_Halifax_CV.pdf) 
